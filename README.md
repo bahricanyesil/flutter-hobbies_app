@@ -1,6 +1,9 @@
 # hobbies_app
 
-A new Flutter project.
+It is a demo for our real application whose name is Hobbycorn. There are some categories which contain different hobbies. You can look any hobby and learn its time-cost-popularity values and also required materials and some motivational quotes. You can also filter hobbies according to the some parameters and favorite those one which you like.
+
+![Hobbies](https://github.com/bahricanyesil/flutter-hobbies_app/blob/master/screenshots/hobbies.gif)
+![Filtering](https://github.com/bahricanyesil/flutter-hobbies_app/blob/master/screenshots/filtering.gif)
 
 ## Getting Started
 
